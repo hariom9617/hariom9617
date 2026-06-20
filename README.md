@@ -2,7 +2,7 @@
 
 Hi, I'm **Hariom Patil**, a MERN Stack Developer specializing in **React.js, Next.js, Node.js, and scalable web applications**.
 
-🌐 Portfolio: https://hariom-patil.in
+🌐 Portfolio: https://www.hariom-patil.in
 
 ---
 
